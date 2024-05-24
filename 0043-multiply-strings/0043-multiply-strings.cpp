@@ -1,35 +1,43 @@
 class Solution {
 public:
     string multiply(string num1, string num2) {
-        int len1 = num1.size();
-        int len2 = num2.size();
-        vector<int> result(len1 + len2, 0);
+        // Check if either input is "0", if yes, then result is "0"
+        if (num1 == "0" || num2 == "0") {
+            return "0";
+        }
 
-        // Reverse the strings to make the calculation easier
-        reverse(num1.begin(), num1.end());
-        reverse(num2.begin(), num2.end());
+        // Initialize the sizes of the input numbers
+        int length1 = num1.size(), length2 = num2.size();
 
-        // Perform multiplication
-        for (int i = 0; i < len1; ++i) {
-            for (int j = 0; j < len2; ++j) {
-                int mul = (num1[i] - '0') * (num2[j] - '0');
-                int sum = result[i + j] + mul;
-                result[i + j] = sum % 10;
-                result[i + j + 1] += sum / 10;
+        // Create a vector to store the multiplication result
+        vector<int> result(length1 + length2, 0);
+
+        // Multiply each digit of num1 with each digit of num2
+        for (int i = length1 - 1; i >= 0; --i) {
+            int digit1 = num1[i] - '0'; // Convert char to integer
+            for (int j = length2 - 1; j >= 0; --j) {
+                int digit2 = num2[j] - '0'; // Convert char to integer
+                // Add to the corresponding position in the result vector
+                result[i + j + 1] += digit1 * digit2;
             }
         }
 
-        // Remove leading zeros
-        while (result.size() > 1 && result.back() == 0) {
-            result.pop_back();
+        // Handle carrying over the value for digits greater than 9
+        for (int i = result.size() - 1; i > 0; --i) {
+            result[i - 1] += result[i] / 10; // Carry over
+            result[i] %= 10; // Remainder stays at current position
         }
 
-        // Convert result vector back to string
+        // Skip any leading zeros in the result vector
+        int startIndex = result[0] == 0 ? 1 : 0;
+
+        // Convert the result vector to a string
         string resultStr;
-        for (int i = result.size() - 1; i >= 0; --i) {
-            resultStr.push_back(result[i] + '0');
+        for (int i = startIndex; i < result.size(); ++i) {
+            resultStr += '0' + result[i]; // Convert integer to char and append to resultStr
         }
 
+        // Return the final product as a string
         return resultStr;
     }
 };
