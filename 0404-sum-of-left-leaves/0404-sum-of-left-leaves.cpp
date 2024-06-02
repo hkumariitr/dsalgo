@@ -11,24 +11,17 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root, int&sum, bool isleft){
-        if(!root) return ;
-        
-
-
-        dfs(root->left, sum,true);  
+    int dfs(TreeNode* root, bool isleft){
+        if(!root) return 0 ;
+         
         if(!root->left && !root->right && isleft){
-            sum += root->val;
+            return root->val;
         }      
-        dfs(root->right, sum,false);
+        return dfs(root->left,true) +dfs(root->right,false);
     }
     int sumOfLeftLeaves(TreeNode* root) {
-        int sum =0;
-        if(!root->left && !root->right){
-            return 0;
-        }
-        dfs(root,sum,false);
+        
+        return dfs(root,false);
 
-        return sum;
     }
 };
