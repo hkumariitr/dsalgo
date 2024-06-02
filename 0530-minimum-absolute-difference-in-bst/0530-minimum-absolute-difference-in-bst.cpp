@@ -11,26 +11,27 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* root, int& prev_val, int& min_diff) {
-    if (!root) return;
-    
-    inorder(root->left, prev_val, min_diff);
-    
-    if (prev_val != INT_MAX) {
-        min_diff = std::min(min_diff, root->val - prev_val);
-    }
-    
-    prev_val = root->val;
-    
-    inorder(root->right, prev_val, min_diff);
-}
+     void dfs(TreeNode* root, int &prev, int &diff ){
+        if(!root) return;
 
-int getMinimumDifference(TreeNode* root) {
-    int prev_val = INT_MAX;
-    int min_diff = INT_MAX;
-    
-    inorder(root, prev_val, min_diff);
-    
-    return min_diff;        
-}
+        dfs(root->left, prev, diff);
+
+        if(prev != INT_MAX){
+            diff = min(diff, root->val -prev);
+        }
+
+        prev = root->val;
+
+        dfs(root->right, prev, diff);
+    }
+    int getMinimumDifference(TreeNode* root) {
+        int diff = INT_MAX;
+
+        int prev = INT_MAX;
+
+        dfs(root,prev,diff);
+
+        return diff;
+
+    }
 };
