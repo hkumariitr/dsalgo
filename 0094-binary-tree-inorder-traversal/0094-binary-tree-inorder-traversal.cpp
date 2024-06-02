@@ -19,10 +19,28 @@ public:
         ans.push_back(root->val);
         dfs(root->right,ans);
     }
-    vector<int> inorderTraversal(TreeNode* root) {
+
+    vector<int> iter(TreeNode* root){
         vector<int> ans;
-        dfs(root,ans);
+        TreeNode* curr = root;
+        stack<TreeNode*> st;
+        while(curr || !st.empty()){
+            while (curr){
+                st.push(curr);
+                curr = curr->left;
+            }
+            curr = st.top();
+            ans.push_back(curr->val);
+            st.pop();
+            curr = curr->right;
+        }
         return ans;
+    }
+
+    vector<int> inorderTraversal(TreeNode* root) {
+        return iter(root);
+        // dfs(root,ans);
+        // return ans;
         
     }
 };
