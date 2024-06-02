@@ -19,6 +19,7 @@ public:
         int rh = dfs(root->right,isBal);
         if(abs(lh-rh)>1){
             isBal = false;
+            return -1;
 
         }
         return 1 + max(lh,rh);
