@@ -14,11 +14,12 @@ public:
     void dfs(TreeNode* root, int&sum, bool isleft){
         if(!root) return ;
         
+
+
+        dfs(root->left, sum,true);  
         if(!root->left && !root->right && isleft){
             sum += root->val;
-        }
-
-        dfs(root->left, sum,true);        
+        }      
         dfs(root->right, sum,false);
     }
     int sumOfLeftLeaves(TreeNode* root) {
