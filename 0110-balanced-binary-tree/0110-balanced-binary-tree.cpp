@@ -16,7 +16,13 @@ public:
             return 0;
         }
         int lh = dfs(root->left,isBal);
+        if (lh == -1) {
+            return -1; // Left subtree is unbalanced, propagate the imbalance up
+        }
         int rh = dfs(root->right,isBal);
+        if (rh == -1) {
+            return -1; // Right subtree is unbalanced or height difference is greater than 1
+        }
         if(abs(lh-rh)>1){
             isBal = false;
             return -1;
