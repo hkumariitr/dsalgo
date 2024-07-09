@@ -15,11 +15,11 @@ public:
         // Copy the value of the next node into the current node
         node->val = node->next->val;
         // Save the next node in a temporary pointer
-        // ListNode* temp = node->next;
+        ListNode* temp = node->next;
         // Bypass the next node
         node->next = node->next->next;
         // Delete the temporary node
-        // delete temp;
+        delete temp;
         
     }
 };
