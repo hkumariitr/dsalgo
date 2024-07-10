@@ -10,22 +10,15 @@
  */
 class Solution {
 public:
-    int countLength(ListNode* head){
-        int cnt = 0;
-        ListNode* temp = head;
-        while(temp){
-            temp = temp->next;
-            cnt++;
-        }
-        return cnt;
-    }
     ListNode* middleNode(ListNode* head) {
-        int n = countLength(head);
-        ListNode* temp = head;
-        int i = ((n)/2);
-        while(temp && i--){
-            temp = temp->next;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        
+        while (fast != nullptr && fast->next != nullptr) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        return temp;
+        
+        return slow;
     }
 };
