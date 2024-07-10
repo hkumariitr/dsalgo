@@ -1,42 +1,43 @@
-// class Node{
-// public:
-//     int data;
-//     Node* next;
-//     Node(int data1,Node* next1){
-//         data = data1;
-//         next = next1;
-//     }
-//     Node(int data1){
-//         data = data1;
-//         next = nullptr;
-//     }
-//     Node(){
-//         data = NULL;
-//         next = nullptr;
-//     }
-// };
-
 class MyHashSet {
+
 public:
-    vector<int> m;
-    int size;
+    int M; //No. of buckets
+    vector<list<int>> buckets;
+
+    int getIndex(int key){
+        return key%M;
+    }
     MyHashSet() {
-        size = 1e6+1;
-        m.resize(size);
+        M = 15000;
+        buckets = vector<list<int>> (M, list<int>{});
+
     }
     
     void add(int key) {
-        m[key] = 1;
+        int index = getIndex(key);
+        auto itr = find(buckets[index].begin(),buckets[index].end(),key);
+        if(itr == buckets[index].end()){
+           buckets[index].push_back(key);
+        }
+
     }
     
     void remove(int key) {
-        m[key]=0;
+        int index = getIndex(key);
+        auto itr = find(buckets[index].begin(),buckets[index].end(),key);
+        if(itr != buckets[index].end()){
+           buckets[index].erase(itr);
+        }
     }
     
     bool contains(int key) {
-        return m[key];
-    }
+        int index = getIndex(key);
+        auto itr = find(buckets[index].begin(),buckets[index].end(),key);
+        return itr != buckets[index].end();
+        }
+        
 };
+
 
 /**
  * Your MyHashSet object will be instantiated and called as such:
