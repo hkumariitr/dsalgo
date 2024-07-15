@@ -10,30 +10,45 @@
  */
 class Solution {
 public:
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        vector<int> values;
-        int n = lists.size();
-        if(n==0) return NULL;
-        for(int i =0;i<n;i++){
-            ListNode* head = lists[i];
-            while(head){
-                values.push_back(head->val);
-                head = head->next;
+    ListNode* merge2Lists( ListNode* node1,  ListNode* node2){
+        ListNode* t1 = node1;
+        ListNode* t2 = node2;
+        ListNode* dummy = new ListNode(-1);
+        ListNode* temp = dummy;
+
+        while(t1 && t2){
+            if(t1->val<t2->val){
+                temp->next = t1;
+                t1 = t1->next;
+                temp = temp->next;
+            }
+            else{
+                temp->next = t2;
+                t2 = t2->next;
+                temp = temp->next;
             }
         }
-        
-        if (values.empty()) return NULL;
 
-        sort(values.begin(),values.end());
-        
-        int val =values[0];
-
-        ListNode* head = new ListNode(val);
-        ListNode* temp = head;
-        int siz = values.size();
-        for(int i =1;i<siz;i++){
-            temp->next = new ListNode(values[i]);
+        if(t1){
+            temp->next = t1;
+            t1 = t1->next;
             temp = temp->next;
+        }
+
+        if(t2){
+            temp->next = t2;
+            t2 = t2->next;
+            temp = temp->next;
+        }
+        return dummy->next;
+    }
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        if(lists.empty()) return NULL;
+
+        ListNode* head = lists[0];
+        int n = lists.size();
+        for(int i =1;i<n;i++){
+            head = merge2Lists(head, lists[i]);
         }
         return head;
     }
