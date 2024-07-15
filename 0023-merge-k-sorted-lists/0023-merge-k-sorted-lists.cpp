@@ -10,46 +10,26 @@
  */
 class Solution {
 public:
-    ListNode* merge2Lists( ListNode* node1,  ListNode* node2){
-        ListNode* t1 = node1;
-        ListNode* t2 = node2;
-        ListNode* dummy = new ListNode(-1);
-        ListNode* temp = dummy;
-
-        while(t1 && t2){
-            if(t1->val<t2->val){
-                temp->next = t1;
-                t1 = t1->next;
-                temp = temp->next;
-            }
-            else{
-                temp->next = t2;
-                t2 = t2->next;
-                temp = temp->next;
-            }
-        }
-
-        if(t1){
-            temp->next = t1;
-            t1 = t1->next;
-            temp = temp->next;
-        }
-
-        if(t2){
-            temp->next = t2;
-            t2 = t2->next;
-            temp = temp->next;
-        }
-        return dummy->next;
-    }
+    
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         if(lists.empty()) return NULL;
-
-        ListNode* head = lists[0];
         int n = lists.size();
-        for(int i =1;i<n;i++){
-            head = merge2Lists(head, lists[i]);
+        priority_queue <pair<int,ListNode*>, vector<pair<int,ListNode*>>, greater<pair<int,ListNode*>>> pq;
+        for(int i =0;i<n;i++){
+            if(lists[i]) pq.push({lists[i]->val,lists[i]});
         }
-        return head;
+        
+        ListNode* dNode = new ListNode(-1);
+        ListNode* temp = dNode;
+
+        while(!pq.empty()){
+            auto p = pq.top();
+            temp->next = p.second;
+            pq.pop();
+            temp = temp->next;
+            if(p.second->next) pq.push({p.second->next->val,p.second->next});
+
+        }
+        return dNode->next;
     }
 };
