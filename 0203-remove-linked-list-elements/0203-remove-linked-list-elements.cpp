@@ -25,11 +25,12 @@ public:
 
             if(temp->val == val){
                 prev->next = front;
-                temp = front;
+                
             }else{
                 prev = temp;
-                temp = front;
+                
             }
+            temp = front;
         }
         return dNode->next;
     }
