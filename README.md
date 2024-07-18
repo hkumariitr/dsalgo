@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hkumariitr/dsalgo/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/hkumariitr/dsalgo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hkumariitr/dsalgo/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/hkumariitr/dsalgo/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hkumariitr/dsalgo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/hkumariitr/dsalgo/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/hkumariitr/dsalgo/tree/master/0206-reverse-linked-list) |
@@ -60,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hkumariitr/dsalgo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hkumariitr/dsalgo/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/hkumariitr/dsalgo/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hkumariitr/dsalgo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0816-design-hashset](https://github.com/hkumariitr/dsalgo/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/hkumariitr/dsalgo/tree/master/0817-design-hashmap) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/hkumariitr/dsalgo/tree/master/0146-lru-cache) |
 | [0816-design-hashset](https://github.com/hkumariitr/dsalgo/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/hkumariitr/dsalgo/tree/master/0817-design-hashmap) |
 | [1582-design-browser-history](https://github.com/hkumariitr/dsalgo/tree/master/1582-design-browser-history) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/hkumariitr/dsalgo/tree/master/0146-lru-cache) |
 | [1582-design-browser-history](https://github.com/hkumariitr/dsalgo/tree/master/1582-design-browser-history) |
 ## Data Stream
 |  |
