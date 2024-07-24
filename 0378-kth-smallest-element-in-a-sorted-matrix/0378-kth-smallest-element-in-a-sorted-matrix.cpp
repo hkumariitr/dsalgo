@@ -1,38 +1,39 @@
 class Solution {
 public:
-    int kthSmallest(vector<vector<int>>& matrix, int k) {
-        if (matrix.empty() || k < 1) return -1; // Return -1 for invalid input
-        using mpair = pair<int,pair<int,int>>;
-        // Min-heap using priority_queue
-        priority_queue<mpair, vector<mpair>, greater<mpair>> heap;
-        set<pair<int, int>> s;
-
-        // Add the first element
-        heap.push({matrix[0][0], {0, 0}});
-        s.insert({0, 0});
-
-        while (k > 1) {
-            auto indices = heap.top().second;
-            heap.pop();
-            
-            int row = indices.first;
-            int col = indices.second;
-
-            // Add the next element in the row
-            if (col + 1 < matrix[0].size() && s.find({row, col + 1}) == s.end()) {
-                heap.push({matrix[row][col + 1], {row, col + 1}});
-                s.insert({row, col + 1});
+    int countLessEqual(vector<vector<int>>& matrix, int x) {
+        int count = 0;
+        int n = matrix.size();
+        int m = matrix[0].size();
+        
+        for (int i = 0; i < n; ++i) {
+            int left = 0, right = m - 1;
+            while (left <= right) {
+                int mid = left + (right - left) / 2;
+                if (matrix[i][mid] <= x) {
+                    left = mid + 1;
+                } else {
+                    right = mid - 1;
+                }
             }
-
-            // Add the next element in the column
-            if (row + 1 < matrix.size() && s.find({row + 1, col}) == s.end()) {
-                heap.push({matrix[row + 1][col], {row + 1, col}});
-                s.insert({row + 1, col});
-            }
-
-            k--;
+            count += left; // Number of elements <= x in row i
         }
+        return count;
+    }
 
-        return heap.top().first;
+    int kthSmallest(vector<vector<int>>& matrix, int k) {
+        int n = matrix.size();
+        int m = matrix[0].size();
+        int low = matrix[0][0];
+        int high = matrix[n - 1][m - 1];
+
+        while (low < high) {
+            int mid = low + (high - low) / 2;
+            if (countLessEqual(matrix, mid) < k) {
+                low = mid + 1;
+            } else {
+                high = mid;
+            }
+        }
+        return low;
     }
 };
