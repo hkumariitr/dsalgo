@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/hkumariitr/dsalgo/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hkumariitr/dsalgo/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/hkumariitr/dsalgo/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1792-find-the-most-competitive-subsequence](https://github.com/hkumariitr/dsalgo/tree/master/1792-find-the-most-competitive-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/hkumariitr/dsalgo/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Game Theory
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/hkumariitr/dsalgo/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
