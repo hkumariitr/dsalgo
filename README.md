@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/hkumariitr/dsalgo/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/hkumariitr/dsalgo/tree/master/0264-ugly-number-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/hkumariitr/dsalgo/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hkumariitr/dsalgo/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
