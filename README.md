@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hkumariitr/dsalgo/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/hkumariitr/dsalgo/tree/master/0239-sliding-window-maximum) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/hkumariitr/dsalgo/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hkumariitr/dsalgo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0816-design-hashset](https://github.com/hkumariitr/dsalgo/tree/master/0816-design-hashset) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hkumariitr/dsalgo/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hkumariitr/dsalgo/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/hkumariitr/dsalgo/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/hkumariitr/dsalgo/tree/master/0264-ugly-number-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hkumariitr/dsalgo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-reorganize-string](https://github.com/hkumariitr/dsalgo/tree/master/0778-reorganize-string) |
@@ -205,4 +207,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/hkumariitr/dsalgo/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hkumariitr/dsalgo/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hkumariitr/dsalgo/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hkumariitr/dsalgo/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
