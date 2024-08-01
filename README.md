@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/hkumariitr/dsalgo/tree/master/1582-design-browser-history) |
 | [1762-furthest-building-you-can-reach](https://github.com/hkumariitr/dsalgo/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/hkumariitr/dsalgo/tree/master/1792-find-the-most-competitive-subsequence) |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/hkumariitr/dsalgo/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/hkumariitr/dsalgo/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hkumariitr/dsalgo/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hkumariitr/dsalgo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-reorganize-string](https://github.com/hkumariitr/dsalgo/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/hkumariitr/dsalgo/tree/master/1014-k-closest-points-to-origin) |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/hkumariitr/dsalgo/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/hkumariitr/dsalgo/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/hkumariitr/dsalgo/tree/master/1792-find-the-most-competitive-subsequence) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/hkumariitr/dsalgo/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/hkumariitr/dsalgo/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Counting
 |  |
 | ------- |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/hkumariitr/dsalgo/tree/master/0264-ugly-number-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hkumariitr/dsalgo/tree/master/0803-cheapest-flights-within-k-stops) |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/hkumariitr/dsalgo/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Depth-First Search
 |  |
 | ------- |
