@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/hkumariitr/dsalgo/tree/master/0239-sliding-window-maximum) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/hkumariitr/dsalgo/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hkumariitr/dsalgo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/hkumariitr/dsalgo/tree/master/0407-trapping-rain-water-ii) |
 | [0816-design-hashset](https://github.com/hkumariitr/dsalgo/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/hkumariitr/dsalgo/tree/master/0817-design-hashmap) |
 | [1014-k-closest-points-to-origin](https://github.com/hkumariitr/dsalgo/tree/master/1014-k-closest-points-to-origin) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/hkumariitr/dsalgo/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hkumariitr/dsalgo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/hkumariitr/dsalgo/tree/master/0407-trapping-rain-water-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/hkumariitr/dsalgo/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/hkumariitr/dsalgo/tree/master/0264-ugly-number-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hkumariitr/dsalgo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/hkumariitr/dsalgo/tree/master/0407-trapping-rain-water-ii) |
 | [0778-reorganize-string](https://github.com/hkumariitr/dsalgo/tree/master/0778-reorganize-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hkumariitr/dsalgo/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/hkumariitr/dsalgo/tree/master/1014-k-closest-points-to-origin) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/hkumariitr/dsalgo/tree/master/0407-trapping-rain-water-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hkumariitr/dsalgo/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Graph
 |  |
