@@ -1,11 +1,10 @@
 class Solution {
 public:
     int minimumCost(int m, int n, vector<int>& horizontalCut, vector<int>& verticalCut) {
-        sort(horizontalCut.begin(),horizontalCut.end());
-        reverse(horizontalCut.begin(),horizontalCut.end());
-
-        sort(verticalCut.begin(),verticalCut.end());
-        reverse(verticalCut.begin(),verticalCut.end());
+        sort(horizontalCut.rbegin(),horizontalCut.rend());
+        
+        sort(verticalCut.rbegin(),verticalCut.rend());
+       
 
         int verticalPieces = 1;
         int horizontalPieces = 1;
