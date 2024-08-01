@@ -169,12 +169,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-reorganize-string](https://github.com/hkumariitr/dsalgo/tree/master/0778-reorganize-string) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hkumariitr/dsalgo/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/hkumariitr/dsalgo/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Greedy
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/hkumariitr/dsalgo/tree/master/0778-reorganize-string) |
 | [1762-furthest-building-you-can-reach](https://github.com/hkumariitr/dsalgo/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/hkumariitr/dsalgo/tree/master/1792-find-the-most-competitive-subsequence) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/hkumariitr/dsalgo/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Counting
 |  |
 | ------- |
