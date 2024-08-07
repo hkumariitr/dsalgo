@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/hkumariitr/dsalgo/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hkumariitr/dsalgo/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3516-design-neighbor-sum-service](https://github.com/hkumariitr/dsalgo/tree/master/3516-design-neighbor-sum-service) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hkumariitr/dsalgo/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -223,10 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/hkumariitr/dsalgo/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/hkumariitr/dsalgo/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hkumariitr/dsalgo/tree/master/0803-cheapest-flights-within-k-stops) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hkumariitr/dsalgo/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hkumariitr/dsalgo/tree/master/0803-cheapest-flights-within-k-stops) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hkumariitr/dsalgo/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
 |  |
 | ------- |
