@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/hkumariitr/dsalgo/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/hkumariitr/dsalgo/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hkumariitr/dsalgo/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/hkumariitr/dsalgo/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3516-design-neighbor-sum-service](https://github.com/hkumariitr/dsalgo/tree/master/3516-design-neighbor-sum-service) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hkumariitr/dsalgo/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Search
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/hkumariitr/dsalgo/tree/master/0218-the-skyline-problem) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/hkumariitr/dsalgo/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/hkumariitr/dsalgo/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/hkumariitr/dsalgo/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/hkumariitr/dsalgo/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/hkumariitr/dsalgo/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/hkumariitr/dsalgo/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Counting
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hkumariitr/dsalgo/tree/master/0803-cheapest-flights-within-k-stops) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/hkumariitr/dsalgo/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hkumariitr/dsalgo/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
 |  |
