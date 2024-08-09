@@ -1,34 +1,18 @@
-
 class Solution {
 public:
+    int check(int n){
+        int c =0;
+        for(int i=2;i<n;i++){
+            if(n%i==0) c++;
+            if(c>1) break;                       
+        }
+        return (c!=1)? 1 :0;
+    }
     int nonSpecialCount(int l, int r) {
-        int maxi = sqrt(r);
-        vector<int>sieve(maxi+1,1);
-        sieve[1] = 0;
-        
-        for(int i=2;i<=maxi;i++){
-            if(sieve[i]==1){
-                
-                for(int j =i*i;j<=maxi;j+=i){
-                sieve[j] = 0;
-                }    
-            }
-            
+        int cnt =0;
+        for(int i=l;i<=r;i++){
+            cnt += check(i);
         }
-      
-        int count =0;
-        for(int i=2;i<=maxi;i++){
-            if(sieve[i]==1){
-                 int no = i * i;
-                 if(no>=l && no<=r){
-                  count++;
-                }
-            }
-        }
-        
-     
-       
-        
-        return (r-l + 1) - count;
+        return cnt;
     }
 };
