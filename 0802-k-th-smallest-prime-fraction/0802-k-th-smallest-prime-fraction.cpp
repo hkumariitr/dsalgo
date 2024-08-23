@@ -6,8 +6,8 @@ public:
         using pi = pair<double,pair<int,int>>;
         priority_queue<pi,vector<pi>,greater<pi>> pq;
         int n = arr.size();
-        for(int i=0;i<n;i++){
-            for(int j=n-1;j>i;j--){
+        for(int j=n-1;j>=0;j--){
+            for(int i=0;i<j;i++){
                 double ans = (arr[i]*1.0)/arr[j];
                 pq.push({ans,{i,j}});
             }
