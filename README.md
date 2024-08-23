@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/hkumariitr/dsalgo/tree/master/0794-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/hkumariitr/dsalgo/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/hkumariitr/dsalgo/tree/master/0817-design-hashmap) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/hkumariitr/dsalgo/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/hkumariitr/dsalgo/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/hkumariitr/dsalgo/tree/master/1014-k-closest-points-to-origin) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hkumariitr/dsalgo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/hkumariitr/dsalgo/tree/master/0778-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/hkumariitr/dsalgo/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hkumariitr/dsalgo/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/hkumariitr/dsalgo/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/hkumariitr/dsalgo/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/hkumariitr/dsalgo/tree/master/1014-k-closest-points-to-origin) |
 | [1762-furthest-building-you-can-reach](https://github.com/hkumariitr/dsalgo/tree/master/1762-furthest-building-you-can-reach) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/hkumariitr/dsalgo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hkumariitr/dsalgo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-reorganize-string](https://github.com/hkumariitr/dsalgo/tree/master/0778-reorganize-string) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/hkumariitr/dsalgo/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1014-k-closest-points-to-origin](https://github.com/hkumariitr/dsalgo/tree/master/1014-k-closest-points-to-origin) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/hkumariitr/dsalgo/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/hkumariitr/dsalgo/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/hkumariitr/dsalgo/tree/master/0778-reorganize-string) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/hkumariitr/dsalgo/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/hkumariitr/dsalgo/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1762-furthest-building-you-can-reach](https://github.com/hkumariitr/dsalgo/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/hkumariitr/dsalgo/tree/master/1792-find-the-most-competitive-subsequence) |
