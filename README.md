@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/hkumariitr/dsalgo/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/hkumariitr/dsalgo/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/hkumariitr/dsalgo/tree/master/1014-k-closest-points-to-origin) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hkumariitr/dsalgo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hkumariitr/dsalgo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/hkumariitr/dsalgo/tree/master/1582-design-browser-history) |
 | [1762-furthest-building-you-can-reach](https://github.com/hkumariitr/dsalgo/tree/master/1762-furthest-building-you-can-reach) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/hkumariitr/dsalgo/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hkumariitr/dsalgo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/hkumariitr/dsalgo/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 ## Ordered Set
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hkumariitr/dsalgo/tree/master/0239-sliding-window-maximum) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hkumariitr/dsalgo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/hkumariitr/dsalgo/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Monotonic Queue
 |  |
