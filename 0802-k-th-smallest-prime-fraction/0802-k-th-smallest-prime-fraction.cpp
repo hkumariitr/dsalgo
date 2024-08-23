@@ -2,15 +2,15 @@ class Solution {
 public:
     vector<int> kthSmallestPrimeFraction(vector<int>& arr, int k) {
         double div=0;
-        vector<pair<double,pair<int,int>>> res;
+        using pi = pair<double,pair<int,int>>;
+        priority_queue<pi> pq;
         for(int i=0;i<arr.size();i++){
             for(int j=i+1;j<arr.size();j++){
-                res.push_back({arr[i]*1.0/arr[j],{arr[i],arr[j]}});
+                pq.push({arr[i]*1.0/arr[j],{arr[i],arr[j]}});
+                if(pq.size()>k) pq.pop();
             }
         }
-        sort(res.begin(),res.end());
-
-        auto mini = res[k-1];
+        auto mini = pq.top();
         return {mini.second.first, mini.second.second};
     }
 };
