@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hkumariitr/dsalgo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/hkumariitr/dsalgo/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/hkumariitr/dsalgo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hkumariitr/dsalgo/tree/master/0142-linked-list-cycle-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hkumariitr/dsalgo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0778-reorganize-string](https://github.com/hkumariitr/dsalgo/tree/master/0778-reorganize-string) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hkumariitr/dsalgo/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/hkumariitr/dsalgo/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hkumariitr/dsalgo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/hkumariitr/dsalgo/tree/master/0239-sliding-window-maximum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hkumariitr/dsalgo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/hkumariitr/dsalgo/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
