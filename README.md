@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/hkumariitr/dsalgo/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hkumariitr/dsalgo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/hkumariitr/dsalgo/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/hkumariitr/dsalgo/tree/master/0239-sliding-window-maximum) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/hkumariitr/dsalgo/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/hkumariitr/dsalgo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hkumariitr/dsalgo/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hkumariitr/dsalgo/tree/master/0160-intersection-of-two-linked-lists) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/hkumariitr/dsalgo/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hkumariitr/dsalgo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hkumariitr/dsalgo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-reorganize-string](https://github.com/hkumariitr/dsalgo/tree/master/0778-reorganize-string) |
