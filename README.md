@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/hkumariitr/dsalgo/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hkumariitr/dsalgo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/hkumariitr/dsalgo/tree/master/0407-trapping-rain-water-ii) |
+| [0496-next-greater-element-i](https://github.com/hkumariitr/dsalgo/tree/master/0496-next-greater-element-i) |
 | [0794-swim-in-rising-water](https://github.com/hkumariitr/dsalgo/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/hkumariitr/dsalgo/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0816-design-hashset](https://github.com/hkumariitr/dsalgo/tree/master/0816-design-hashset) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/hkumariitr/dsalgo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0264-ugly-number-ii](https://github.com/hkumariitr/dsalgo/tree/master/0264-ugly-number-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/hkumariitr/dsalgo/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0496-next-greater-element-i](https://github.com/hkumariitr/dsalgo/tree/master/0496-next-greater-element-i) |
 | [0778-reorganize-string](https://github.com/hkumariitr/dsalgo/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/hkumariitr/dsalgo/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/hkumariitr/dsalgo/tree/master/0817-design-hashmap) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/hkumariitr/dsalgo/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/hkumariitr/dsalgo/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/hkumariitr/dsalgo/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hkumariitr/dsalgo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/hkumariitr/dsalgo/tree/master/1582-design-browser-history) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/hkumariitr/dsalgo/tree/master/1792-find-the-most-competitive-subsequence) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/hkumariitr/dsalgo/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hkumariitr/dsalgo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/hkumariitr/dsalgo/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Simulation
