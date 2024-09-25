@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/hkumariitr/dsalgo/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/hkumariitr/dsalgo/tree/master/0155-min-stack) |
 | [0816-design-hashset](https://github.com/hkumariitr/dsalgo/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/hkumariitr/dsalgo/tree/master/0817-design-hashmap) |
 | [1582-design-browser-history](https://github.com/hkumariitr/dsalgo/tree/master/1582-design-browser-history) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/hkumariitr/dsalgo/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/hkumariitr/dsalgo/tree/master/0234-palindrome-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hkumariitr/dsalgo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/hkumariitr/dsalgo/tree/master/1582-design-browser-history) |
