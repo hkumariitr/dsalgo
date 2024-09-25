@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hkumariitr/dsalgo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hkumariitr/dsalgo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/hkumariitr/dsalgo/tree/master/1582-design-browser-history) |
+| [1733-maximum-number-of-visible-points](https://github.com/hkumariitr/dsalgo/tree/master/1733-maximum-number-of-visible-points) |
 | [1762-furthest-building-you-can-reach](https://github.com/hkumariitr/dsalgo/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/hkumariitr/dsalgo/tree/master/1792-find-the-most-competitive-subsequence) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/hkumariitr/dsalgo/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/hkumariitr/dsalgo/tree/master/0264-ugly-number-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/hkumariitr/dsalgo/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hkumariitr/dsalgo/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1733-maximum-number-of-visible-points](https://github.com/hkumariitr/dsalgo/tree/master/1733-maximum-number-of-visible-points) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/hkumariitr/dsalgo/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/hkumariitr/dsalgo/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Hash Table
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/hkumariitr/dsalgo/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/hkumariitr/dsalgo/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1014-k-closest-points-to-origin](https://github.com/hkumariitr/dsalgo/tree/master/1014-k-closest-points-to-origin) |
+| [1733-maximum-number-of-visible-points](https://github.com/hkumariitr/dsalgo/tree/master/1733-maximum-number-of-visible-points) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/hkumariitr/dsalgo/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/hkumariitr/dsalgo/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Quickselect
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/hkumariitr/dsalgo/tree/master/1014-k-closest-points-to-origin) |
+| [1733-maximum-number-of-visible-points](https://github.com/hkumariitr/dsalgo/tree/master/1733-maximum-number-of-visible-points) |
 ## String
 |  |
 | ------- |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/hkumariitr/dsalgo/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1138-grumpy-bookstore-owner](https://github.com/hkumariitr/dsalgo/tree/master/1138-grumpy-bookstore-owner) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hkumariitr/dsalgo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1733-maximum-number-of-visible-points](https://github.com/hkumariitr/dsalgo/tree/master/1733-maximum-number-of-visible-points) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/hkumariitr/dsalgo/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Monotonic Queue
 |  |
