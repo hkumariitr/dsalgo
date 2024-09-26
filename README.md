@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/hkumariitr/dsalgo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/hkumariitr/dsalgo/tree/master/0234-palindrome-linked-list) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/hkumariitr/dsalgo/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0874-backspace-string-compare](https://github.com/hkumariitr/dsalgo/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/hkumariitr/dsalgo/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/hkumariitr/dsalgo/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/hkumariitr/dsalgo/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/hkumariitr/dsalgo/tree/master/0496-next-greater-element-i) |
+| [0874-backspace-string-compare](https://github.com/hkumariitr/dsalgo/tree/master/0874-backspace-string-compare) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hkumariitr/dsalgo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/hkumariitr/dsalgo/tree/master/1582-design-browser-history) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/hkumariitr/dsalgo/tree/master/1792-find-the-most-competitive-subsequence) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/hkumariitr/dsalgo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/hkumariitr/dsalgo/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0778-reorganize-string](https://github.com/hkumariitr/dsalgo/tree/master/0778-reorganize-string) |
+| [0874-backspace-string-compare](https://github.com/hkumariitr/dsalgo/tree/master/0874-backspace-string-compare) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hkumariitr/dsalgo/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/hkumariitr/dsalgo/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/hkumariitr/dsalgo/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/hkumariitr/dsalgo/tree/master/0874-backspace-string-compare) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/hkumariitr/dsalgo/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3516-design-neighbor-sum-service](https://github.com/hkumariitr/dsalgo/tree/master/3516-design-neighbor-sum-service) |
 ## Game Theory
