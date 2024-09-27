@@ -6,7 +6,7 @@ public:
     bool isSafe(int i, int j){
         return (i>=0 && j>=0 && i<n && j<m);
     }
-    void dfs(int i, int j, set<pair<int,int>> &vis,vector<vector<char>>& board){
+    void dfs(int i, int j, set<pair<int,int>> &vis,vector<vector<char>> board){
         vis.insert({i,j});
         for(int k=0;k<4;k++){
             int i_ = i+x[k];
