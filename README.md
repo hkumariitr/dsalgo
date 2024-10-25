@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hkumariitr/dsalgo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/hkumariitr/dsalgo/tree/master/0407-trapping-rain-water-ii) |
 | [0496-next-greater-element-i](https://github.com/hkumariitr/dsalgo/tree/master/0496-next-greater-element-i) |
+| [0690-employee-importance](https://github.com/hkumariitr/dsalgo/tree/master/0690-employee-importance) |
 | [0794-swim-in-rising-water](https://github.com/hkumariitr/dsalgo/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/hkumariitr/dsalgo/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0816-design-hashset](https://github.com/hkumariitr/dsalgo/tree/master/0816-design-hashset) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/hkumariitr/dsalgo/tree/master/0264-ugly-number-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/hkumariitr/dsalgo/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/hkumariitr/dsalgo/tree/master/0496-next-greater-element-i) |
+| [0690-employee-importance](https://github.com/hkumariitr/dsalgo/tree/master/0690-employee-importance) |
 | [0778-reorganize-string](https://github.com/hkumariitr/dsalgo/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/hkumariitr/dsalgo/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/hkumariitr/dsalgo/tree/master/0817-design-hashmap) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/hkumariitr/dsalgo/tree/master/0130-surrounded-regions) |
+| [0690-employee-importance](https://github.com/hkumariitr/dsalgo/tree/master/0690-employee-importance) |
 | [0794-swim-in-rising-water](https://github.com/hkumariitr/dsalgo/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hkumariitr/dsalgo/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/hkumariitr/dsalgo/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/hkumariitr/dsalgo/tree/master/0407-trapping-rain-water-ii) |
+| [0690-employee-importance](https://github.com/hkumariitr/dsalgo/tree/master/0690-employee-importance) |
 | [0794-swim-in-rising-water](https://github.com/hkumariitr/dsalgo/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hkumariitr/dsalgo/tree/master/0803-cheapest-flights-within-k-stops) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hkumariitr/dsalgo/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -343,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/hkumariitr/dsalgo/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Tree
+|  |
+| ------- |
+| [0690-employee-importance](https://github.com/hkumariitr/dsalgo/tree/master/0690-employee-importance) |
 <!---LeetCode Topics End-->
