@@ -43,8 +43,6 @@ public:
                     }
                 }
             }
-            cout<<"fresh reduced to "<<fresh<<endl;
-            cout<<"inserted elements = "<<l<<endl;
             time++;
             count = l;
         }
