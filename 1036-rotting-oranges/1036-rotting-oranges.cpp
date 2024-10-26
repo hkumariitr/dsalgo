@@ -27,7 +27,7 @@ public:
         if(fresh ==0) return 0;
 
         while(!q.empty()){
-            int l=0;
+            int count = q.size();
             while(count--){
                 auto[r,c] = q.front();
                 q.pop();
@@ -39,12 +39,10 @@ public:
                         q.push({x_,y_});
                         fresh--;
                         visited[x_][y_]=1;
-                        l++;
                     }
                 }
             }
             time++;
-            count = l;
         }
 
         if(fresh>0) return -1;
