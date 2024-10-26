@@ -15,8 +15,8 @@ public:
             in[pair[1]]++;
         }
 
-        for(int i=0;i<min(in.size(),out.size());i++){
-            if(i<in.size() && in[i]==n-1 && i<out.size() && out[i]==0){
+        for(int i=0;i<=n;i++){
+            if(in[i]==n-1 && out[i]==0){
                 return i;
             }
         }
