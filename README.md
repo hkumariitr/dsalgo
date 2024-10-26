@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-minimum-number-of-refueling-stops](https://github.com/hkumariitr/dsalgo/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/hkumariitr/dsalgo/tree/master/1014-k-closest-points-to-origin) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hkumariitr/dsalgo/tree/master/1034-subarrays-with-k-different-integers) |
+| [1036-rotting-oranges](https://github.com/hkumariitr/dsalgo/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/hkumariitr/dsalgo/tree/master/1039-find-the-town-judge) |
 | [1138-grumpy-bookstore-owner](https://github.com/hkumariitr/dsalgo/tree/master/1138-grumpy-bookstore-owner) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hkumariitr/dsalgo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hkumariitr/dsalgo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/hkumariitr/dsalgo/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/hkumariitr/dsalgo/tree/master/0794-swim-in-rising-water) |
+| [1036-rotting-oranges](https://github.com/hkumariitr/dsalgo/tree/master/1036-rotting-oranges) |
 | [3516-design-neighbor-sum-service](https://github.com/hkumariitr/dsalgo/tree/master/3516-design-neighbor-sum-service) |
 ## Prefix Sum
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/hkumariitr/dsalgo/tree/master/0690-employee-importance) |
 | [0794-swim-in-rising-water](https://github.com/hkumariitr/dsalgo/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hkumariitr/dsalgo/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1036-rotting-oranges](https://github.com/hkumariitr/dsalgo/tree/master/1036-rotting-oranges) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hkumariitr/dsalgo/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
