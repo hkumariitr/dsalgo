@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/hkumariitr/dsalgo/tree/master/0239-sliding-window-maximum) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/hkumariitr/dsalgo/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hkumariitr/dsalgo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0399-evaluate-division](https://github.com/hkumariitr/dsalgo/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/hkumariitr/dsalgo/tree/master/0407-trapping-rain-water-ii) |
 | [0496-next-greater-element-i](https://github.com/hkumariitr/dsalgo/tree/master/0496-next-greater-element-i) |
 | [0690-employee-importance](https://github.com/hkumariitr/dsalgo/tree/master/0690-employee-importance) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hkumariitr/dsalgo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/hkumariitr/dsalgo/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/hkumariitr/dsalgo/tree/master/0399-evaluate-division) |
 | [0778-reorganize-string](https://github.com/hkumariitr/dsalgo/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/hkumariitr/dsalgo/tree/master/0874-backspace-string-compare) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hkumariitr/dsalgo/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/hkumariitr/dsalgo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hkumariitr/dsalgo/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/hkumariitr/dsalgo/tree/master/0399-evaluate-division) |
 | [0690-employee-importance](https://github.com/hkumariitr/dsalgo/tree/master/0690-employee-importance) |
 | [0794-swim-in-rising-water](https://github.com/hkumariitr/dsalgo/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hkumariitr/dsalgo/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/hkumariitr/dsalgo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hkumariitr/dsalgo/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/hkumariitr/dsalgo/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/hkumariitr/dsalgo/tree/master/0407-trapping-rain-water-ii) |
 | [0690-employee-importance](https://github.com/hkumariitr/dsalgo/tree/master/0690-employee-importance) |
 | [0794-swim-in-rising-water](https://github.com/hkumariitr/dsalgo/tree/master/0794-swim-in-rising-water) |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/hkumariitr/dsalgo/tree/master/0399-evaluate-division) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hkumariitr/dsalgo/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1039-find-the-town-judge](https://github.com/hkumariitr/dsalgo/tree/master/1039-find-the-town-judge) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/hkumariitr/dsalgo/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
@@ -296,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/hkumariitr/dsalgo/tree/master/0399-evaluate-division) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hkumariitr/dsalgo/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Monotonic Stack
 |  |
@@ -349,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/hkumariitr/dsalgo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hkumariitr/dsalgo/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/hkumariitr/dsalgo/tree/master/0399-evaluate-division) |
 | [0794-swim-in-rising-water](https://github.com/hkumariitr/dsalgo/tree/master/0794-swim-in-rising-water) |
 ## Number Theory
 |  |
