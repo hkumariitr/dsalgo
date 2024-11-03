@@ -369,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0690-employee-importance](https://github.com/hkumariitr/dsalgo/tree/master/0690-employee-importance) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/hkumariitr/dsalgo/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
