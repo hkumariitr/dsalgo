@@ -4,4 +4,4 @@ cross join Employee e2
 where e1.id = e2.managerId
 -- having Count(*)>=5
 group by e1.id
-having Count(*)>=5;
+having Count(e1.id)>=5;
