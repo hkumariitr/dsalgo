@@ -1,39 +1,38 @@
 class Solution {
 public:
-    
-    void dfs(vector<vector<int>>& graph,vector<int> &vis,vector<int>& isSafe,int n){
-        if(vis[n]==1) return;
-
-        if(graph[n].size()==0){
-            isSafe[n]=1;
-            return;
+    bool dfs(vector<vector<int>>& graph, vector<int>& vis, vector<int>& pathvis,
+             vector<int>& safe, int node) {
+        vis[node] = 1;
+        pathvis[node] = 1;
+        for (int nei : graph[node]) {
+            if (vis[nei] == 0){
+                if(dfs(graph, vis, pathvis, safe, nei)== true){
+                    safe[node]=0;
+                    return true;
+                }
+            }
+            else if (pathvis[nei]){
+                safe[node]=0;
+                return true;
+            }
         }
-
-        vis[n]=1;
-        bool safeFlag =1;
-
-        for(auto nei:graph[n]){
-            dfs(graph,vis,isSafe,nei);
-
-            safeFlag = safeFlag && isSafe[nei];
-        }
-
-        isSafe[n] = safeFlag;
+        safe[node] = 1;
+        pathvis[node] = 0;
+        return false;
     }
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int n = graph.size();
-        vector<int> isSafe(n,0);
-        vector<int> vis(n,0);
-        
-        for(int i=0;i<n;i++){
-            if(vis[i]==0) dfs(graph,vis,isSafe,i);
+        vector<int> vis(n, 0);
+        vector<int> pathvis(n, 0);
+        vector<int> safe(n, 0);
+        for (int i = 0; i < n; i++) {
+            if (vis[i] == 0)
+                dfs(graph, vis, pathvis, safe, i);
         }
         vector<int> ans;
-
-        for(int i=0;i<n;i++){
-            if(isSafe[i]==1){
+        for (int i = 0; i < n; i++) {
+            if (safe[i] == 1)
                 ans.push_back(i);
-            }
         }
         return ans;
     }
