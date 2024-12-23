@@ -36,7 +36,7 @@ public:
 class Solution {
 public:
     bool equationsPossible(vector<string>& equations) {
-        Dsu* ds = new Dsu();
+        Dsu *ds = new Dsu();
         for(auto eq:equations){
             char a = eq[0];
             char b = eq[3];
