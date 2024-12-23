@@ -58,7 +58,6 @@ public:
         int dots  =grid.size()+1;
         DisjointSet ds(dots*dots);
 
-        int count = 1;
         for(int i=0;i<dots;i++){
             for(int j=0;j<dots;j++){
                 if(i==0 || j==0 || i== dots-1 || j== dots-1){
