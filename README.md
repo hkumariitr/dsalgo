@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/hkumariitr/dsalgo/tree/master/0817-design-hashmap) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/hkumariitr/dsalgo/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/hkumariitr/dsalgo/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0999-regions-cut-by-slashes](https://github.com/hkumariitr/dsalgo/tree/master/0999-regions-cut-by-slashes) |
 | [1014-k-closest-points-to-origin](https://github.com/hkumariitr/dsalgo/tree/master/1014-k-closest-points-to-origin) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hkumariitr/dsalgo/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/hkumariitr/dsalgo/tree/master/1036-rotting-oranges) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hkumariitr/dsalgo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/hkumariitr/dsalgo/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/hkumariitr/dsalgo/tree/master/0794-swim-in-rising-water) |
+| [0999-regions-cut-by-slashes](https://github.com/hkumariitr/dsalgo/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/hkumariitr/dsalgo/tree/master/1036-rotting-oranges) |
 | [3516-design-neighbor-sum-service](https://github.com/hkumariitr/dsalgo/tree/master/3516-design-neighbor-sum-service) |
 ## Prefix Sum
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/hkumariitr/dsalgo/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/hkumariitr/dsalgo/tree/master/0817-design-hashmap) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/hkumariitr/dsalgo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0999-regions-cut-by-slashes](https://github.com/hkumariitr/dsalgo/tree/master/0999-regions-cut-by-slashes) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hkumariitr/dsalgo/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/hkumariitr/dsalgo/tree/master/1039-find-the-town-judge) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hkumariitr/dsalgo/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/hkumariitr/dsalgo/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/hkumariitr/dsalgo/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/hkumariitr/dsalgo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0999-regions-cut-by-slashes](https://github.com/hkumariitr/dsalgo/tree/master/0999-regions-cut-by-slashes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/hkumariitr/dsalgo/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/hkumariitr/dsalgo/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/hkumariitr/dsalgo/tree/master/0922-possible-bipartition) |
+| [0999-regions-cut-by-slashes](https://github.com/hkumariitr/dsalgo/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/hkumariitr/dsalgo/tree/master/1036-rotting-oranges) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hkumariitr/dsalgo/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
@@ -383,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/hkumariitr/dsalgo/tree/master/0794-swim-in-rising-water) |
 | [0922-possible-bipartition](https://github.com/hkumariitr/dsalgo/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/hkumariitr/dsalgo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0999-regions-cut-by-slashes](https://github.com/hkumariitr/dsalgo/tree/master/0999-regions-cut-by-slashes) |
 ## Number Theory
 |  |
 | ------- |
