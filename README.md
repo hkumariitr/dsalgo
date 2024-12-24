@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/hkumariitr/dsalgo/tree/master/1039-find-the-town-judge) |
 | [1117-as-far-from-land-as-possible](https://github.com/hkumariitr/dsalgo/tree/master/1117-as-far-from-land-as-possible) |
 | [1138-grumpy-bookstore-owner](https://github.com/hkumariitr/dsalgo/tree/master/1138-grumpy-bookstore-owner) |
+| [1380-number-of-closed-islands](https://github.com/hkumariitr/dsalgo/tree/master/1380-number-of-closed-islands) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hkumariitr/dsalgo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hkumariitr/dsalgo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/hkumariitr/dsalgo/tree/master/1582-design-browser-history) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/hkumariitr/dsalgo/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/hkumariitr/dsalgo/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/hkumariitr/dsalgo/tree/master/1117-as-far-from-land-as-possible) |
+| [1380-number-of-closed-islands](https://github.com/hkumariitr/dsalgo/tree/master/1380-number-of-closed-islands) |
 | [3516-design-neighbor-sum-service](https://github.com/hkumariitr/dsalgo/tree/master/3516-design-neighbor-sum-service) |
 ## Prefix Sum
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/hkumariitr/dsalgo/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/hkumariitr/dsalgo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/hkumariitr/dsalgo/tree/master/0999-regions-cut-by-slashes) |
+| [1380-number-of-closed-islands](https://github.com/hkumariitr/dsalgo/tree/master/1380-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/hkumariitr/dsalgo/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/hkumariitr/dsalgo/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/hkumariitr/dsalgo/tree/master/1117-as-far-from-land-as-possible) |
+| [1380-number-of-closed-islands](https://github.com/hkumariitr/dsalgo/tree/master/1380-number-of-closed-islands) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hkumariitr/dsalgo/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/hkumariitr/dsalgo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/hkumariitr/dsalgo/tree/master/0999-regions-cut-by-slashes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/hkumariitr/dsalgo/tree/master/1032-satisfiability-of-equality-equations) |
+| [1380-number-of-closed-islands](https://github.com/hkumariitr/dsalgo/tree/master/1380-number-of-closed-islands) |
 ## Number Theory
 |  |
 | ------- |
