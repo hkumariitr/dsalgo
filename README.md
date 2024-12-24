@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/hkumariitr/dsalgo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/hkumariitr/dsalgo/tree/master/0999-regions-cut-by-slashes) |
 | [1380-number-of-closed-islands](https://github.com/hkumariitr/dsalgo/tree/master/1380-number-of-closed-islands) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/hkumariitr/dsalgo/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/hkumariitr/dsalgo/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/hkumariitr/dsalgo/tree/master/1117-as-far-from-land-as-possible) |
 | [1380-number-of-closed-islands](https://github.com/hkumariitr/dsalgo/tree/master/1380-number-of-closed-islands) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/hkumariitr/dsalgo/tree/master/1492-time-needed-to-inform-all-employees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hkumariitr/dsalgo/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0690-employee-importance](https://github.com/hkumariitr/dsalgo/tree/master/0690-employee-importance) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/hkumariitr/dsalgo/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Database
 |  |
 | ------- |
